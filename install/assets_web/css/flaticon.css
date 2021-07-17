@@ -1,0 +1,79 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 22/10/2016 07:29
+*/
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.eot");
+    src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/Flaticon.woff") format("woff"),
+        url("../fonts/Flaticon.ttf") format("truetype"),
+        url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+.flaticon-24-hours-phone-service:before { content: "\f100"; }
+.flaticon-ambulance:before { content: "\f101"; }
+.flaticon-ambulance-1:before { content: "\f102"; }
+.flaticon-biology:before { content: "\f103"; }
+.flaticon-blood-donation:before { content: "\f104"; }
+.flaticon-blood-drop:before { content: "\f105"; }
+.flaticon-blood-test:before { content: "\f106"; }
+.flaticon-brain:before { content: "\f107"; }
+.flaticon-circle:before { content: "\f108"; }
+.flaticon-cross:before { content: "\f109"; }
+.flaticon-customer-service:before { content: "\f10a"; }
+.flaticon-ear-lobe-side-view-outline:before { content: "\f10b"; }
+.flaticon-first-aid-kit:before { content: "\f10c"; }
+.flaticon-happiness:before { content: "\f10d"; }
+.flaticon-heart:before { content: "\f10e"; }
+.flaticon-heart-1:before { content: "\f10f"; }
+.flaticon-kidneys:before { content: "\f110"; }
+.flaticon-liver:before { content: "\f111"; }
+.flaticon-lungs:before { content: "\f112"; }
+.flaticon-mail:before { content: "\f113"; }
+.flaticon-medical:before { content: "\f114"; }
+.flaticon-medical-1:before { content: "\f115"; }
+.flaticon-medical-2:before { content: "\f116"; }
+.flaticon-medical-3:before { content: "\f117"; }
+.flaticon-medical-4:before { content: "\f118"; }
+.flaticon-medical-5:before { content: "\f119"; }
+.flaticon-medical-6:before { content: "\f11a"; }
+.flaticon-medical-7:before { content: "\f11b"; }
+.flaticon-medical-8:before { content: "\f11c"; }
+.flaticon-microscope:before { content: "\f11d"; }
+.flaticon-molar:before { content: "\f11e"; }
+.flaticon-molar-1:before { content: "\f11f"; }
+.flaticon-pancreas:before { content: "\f120"; }
+.flaticon-people:before { content: "\f121"; }
+.flaticon-people-1:before { content: "\f122"; }
+.flaticon-placeholder:before { content: "\f123"; }
+.flaticon-pulse:before { content: "\f124"; }
+.flaticon-security:before { content: "\f125"; }
+.flaticon-smile:before { content: "\f126"; }
+.flaticon-spleen:before { content: "\f127"; }
+.flaticon-stethoscope:before { content: "\f128"; }
+.flaticon-stethoscope-1:before { content: "\f129"; }
+.flaticon-stomach:before { content: "\f12a"; }
+.flaticon-stomach-1:before { content: "\f12b"; }
+.flaticon-support:before { content: "\f12c"; }
+.flaticon-telephone:before { content: "\f12d"; }
+.flaticon-tooth-outline:before { content: "\f12e"; }
+.flaticon-transport:before { content: "\f12f"; }
+.flaticon-trophy:before { content: "\f130"; }
+.flaticon-twitter:before { content: "\f131"; }

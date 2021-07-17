@@ -1,0 +1,11 @@
+Admin : admin@demo.com
+Doctor : doctor@demo.com
+Accountant : accountant@demo.com
+Nurse : nurse@demo.com
+Laboratorist : laboratorist@demo.com
+Pharmacist : pharmacist@demo.com
+Receptionist : receptionist@demo.com
+Representative : representative@demo.com
+
+password 12345
+
